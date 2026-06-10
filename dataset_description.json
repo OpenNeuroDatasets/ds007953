@@ -1,0 +1,10 @@
+{
+    "Name": "Social Detection 7T",
+    "BIDSVersion": "1.0.4 ",
+    "License": "CC0",
+    "Authors": [
+        ""
+    ],
+    "Acknowledgements": "We thank all participants and collaborators.",
+    "DatasetType": "raw"
+}
