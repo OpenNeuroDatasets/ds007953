@@ -13,10 +13,19 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 1
+      - name: Niko Britt
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
     creators:
       - name: Johannes Schultz
         nameType: Personal
         nameIdentifiers: *ref_0
+      - name: Niko Britt
+        nameType: Personal
     descriptions:
       - description: N/A
         descriptionType: Abstract
