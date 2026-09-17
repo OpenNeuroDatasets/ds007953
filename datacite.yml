@@ -23,16 +23,6 @@ data:
             schemeUri: https://orcid.org
         contributorType: Researcher
         order: 2
-      - name: Anonymous User
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_2
-          - nameIdentifier: https://orcid.org/0009-0006-5396-4278
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Researcher
-        order: 3
     creators:
       - name: Johannes Schultz
         nameType: Personal
@@ -40,9 +30,6 @@ data:
       - name: Niko Britt
         nameType: Personal
         nameIdentifiers: *ref_1
-      - name: Anonymous User
-        nameType: Personal
-        nameIdentifiers: *ref_2
     descriptions:
       - description: N/A
         descriptionType: Abstract
