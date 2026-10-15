@@ -1,4 +1,4 @@
-"SocialDetection7T", 7 Tesla fMRI Point-Light Display Experiment Dataset
+7 Tesla fMRI Point-Light Display Experiment Dataset
 ---------------------------------
 
 
