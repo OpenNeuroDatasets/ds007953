@@ -1,0 +1,30 @@
+{
+    "onset": {
+        "Description": "Time in seconds from the start of the acquisition when the event occurred."
+    },
+    "duration": {
+        "Description": "Duration in seconds of the event."
+    },
+    "trial_type": {
+        "Description": "Categorical label indicating the type of trial or condition.",
+        "Levels": {
+            "angry_males": "2 male PLDs fighting",
+            "angry_females": "2 female PLDs fighting",
+            "happy_males": "2 happy male PLDs",
+            "happy_females": "2 happy female PLDs",
+            "neutral_females": "2 female PLDs doing a 'go overthere' motion",
+            "scrambled": "Scrambled stimuli"
+        }
+    },
+    "response_time": {
+        "Description": "Reaction time in seconds; the time taken by the participant to respond.",
+        "Units": "seconds",
+        "Note": "Use 'n/a' if no response was recorded."
+    },
+    "response_accuracy": {
+        "Description": "Accuracy of the participant's response for the trial (1 = correct, 0 = incorrect)."
+    },
+    "trial_no": {
+        "Description": "Trial number in the sequence of trials."
+    }
+}
